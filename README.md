@@ -96,7 +96,15 @@ class WhoAmI {
     
    <a href="mailto:montse.torralba12@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+       <img width="12" />
     </a>
+
+   <a href="https://www.linkedin.com/in/sagrario-montserrat-t-1755b41a0/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" height="35" />
+       <img width="12" />
+    </a>
+
+
 
 
 </div>
