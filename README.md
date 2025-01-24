@@ -89,11 +89,16 @@ class WhoAmI {
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" alt="facebook logo"  />
   <img width="12" />
         </a>
-
+    <a href="https://www.instagram.com/_montsetorralba/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img width="12" />
+        </a>
+    
+    <a href="mailto:montse.torralba12@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img width="12" />
+    </a>
+
 
 </div>
 
