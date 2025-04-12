@@ -17,7 +17,7 @@ class WhoAmI {
 
     ambitions() {
         return [
-            "Become a Software Engineer",
+            "Become a Cloud Engineer",
             "Innovate with Tech",
             "Learn AI"
         ];
